@@ -15,6 +15,7 @@
 | --- | --- |
 | [LEARNING_PLAN.md](LEARNING_PLAN.md) | 学习目标、阶段安排和验收标准 |
 | [PROGRESS.md](PROGRESS.md) | 当前状态、已完成内容、困难和下一步 |
+| [TODO.md](TODO.md) | 尚未激活的课程、资源地图和进阶项目候选 |
 | [SOURCES.md](SOURCES.md) | 外部课程、数据、许可证和版本来源 |
 | [learning-logs/](learning-logs/) | 每次学习会话的日期化记录 |
 | [exercises/](exercises/) | 自己完成的练习、解释和重写代码 |
