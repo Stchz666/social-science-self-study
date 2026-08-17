@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Independent upstream course repositories
+upstream/
+
+# Local environments and temporary files
+.venv/
+*.tmp
+*.smcl
