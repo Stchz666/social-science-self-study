@@ -16,6 +16,21 @@
 - 再使用要求：公开改编内容时注明作者与来源、链接许可证、说明修改，并限于非商业用途
 - 状态：已下载并完成版本登记
 
+## CSDIY / 计算机自学指南
+
+- 作者与维护者：PKUFlyingPig 及项目贡献者
+- 官方网站：https://csdiy.wiki/
+- 源仓库：https://github.com/PKUFlyingPig/cs-self-learning
+- 用途：Git/GitHub、命令行、编程环境、可复现工作流和自学项目组织方式的辅助参考
+- 使用方式：在线只读、按需选读；当前不克隆，也不复制课程内容
+- 默认分支：`master`
+- 访问时基准 commit：`adce8e13789dc16aa6d1fbe163e9541736defae4`
+- 基准 commit 日期：2026-08-13
+- 访问日期：2026-08-17
+- 许可证：[MIT License](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/LICENSE)
+- 在本仓库中的衍生成果：当前仅记录学习方法和工具选读计划
+- 状态：已登记为辅助参考，尚未纳入当前主线
+
 ## 来源登记规则
 
 每增加一项来源，应记录：
